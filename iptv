@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/GnY6dNT.png" group-title="",Canal Luz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="Enlace.cr", tvg-logo="https://i.imgur.com/YwUVTmS.png",Enlace
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnlaceJuvenil.cr", tvg-logo="https://i.imgur.com/GfpPQ5D.png",Enlace Juvenil
+https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Rosario.ar", tvg-logo="https://i.imgur.com/PjsKbrz.png",Canal 3 Rosario [Geo-blocked]
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelefeRosario.ar", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png",Telefe Rosario [Not 24/7]
+https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png", Telefe
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar", tvg-logo="https://i.imgur.com/vFwPhPS.png", TN Todo Noticias
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar", tvg-logo="https://i.imgur.com/Gj1kqH5.png",La Nación+
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar", tvg-logo="https://i.imgur.com/cJHP7bU.png",El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" user-agent="iPhone", tvg-logo="https://i.imgur.com/LnXQkIU.png" ,A24
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar", tvg-logo="https://i.imgur.com/5ZNZYjO.png", C5N [Not 24/7]
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar", tvg-logo="https://i.imgur.com/XGrkzN3.png",TV Pública (TVP) [Not 24/7]
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar", tvg-logo="https://i.imgur.com/uBBZR1X.png",Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar", tvg-logo="https://i.imgur.com/GJbRWwH.png",Pakapaka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png",DirecTV Sports [Geo-blocked]
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" user-agent="iPhone", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png",Crónica TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
